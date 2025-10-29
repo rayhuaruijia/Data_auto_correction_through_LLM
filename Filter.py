@@ -5,7 +5,7 @@ from tkinter import filedialog, simpledialog
 
 # === Configuration ===
 SHEET_MASSY = 'LAX'
-CLEAN_SHEETS = ['Tony 单提 (需整理）', '加单', 'CargoVan', '卡车']
+CLEAN_SHEETS = ['Tony单提 (需整理)', '加单', 'CargoVan', '卡车']
 
 COL_MASSY_ADDR = 'processed_address'
 COL_MASSY_PHONE = 'Merged Mobiles'
